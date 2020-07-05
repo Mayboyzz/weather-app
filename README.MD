@@ -1,0 +1,1 @@
+Simple weather app built in python using the OpenWeatherMap API.
